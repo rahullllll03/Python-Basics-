@@ -1,5 +1,3 @@
+f1 = (3, 18, 4, 5, 10 )
 
-name = "Rahul is  a good boy"
-
-print(name.replace("  ", " "))
-print(name) # string are immutable which means that you cannot change them by running function on them
+print(sum(f1))

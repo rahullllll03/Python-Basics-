@@ -1,4 +1,4 @@
-# escape function
+a = (4, 6, 22, 8, 3, 18, 6, 90, 2, 3, 3, 3)
 
-letter = "Dear Rahul,\n \tyou are selected. \nThanks!"
-print(letter)
+n = a.count(3)
+print(n)

@@ -1,4 +1,3 @@
-# finding space and character
+a = (3, 18, "Rahul")
 
-name = "Rahul is  a good boy"
-print(name.find("ul"))
+a[2] = "aahul"
